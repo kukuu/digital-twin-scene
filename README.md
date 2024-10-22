@@ -5,7 +5,7 @@ Digital twin is a dynamic, virtual representation of a physical object, process,
 [Video is coming soon]
 
 
-## Development and Code Repository: 
+## Code Repository: 
 
 https://github.com/kukuu/digital-twin
 
