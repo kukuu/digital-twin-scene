@@ -9,3 +9,7 @@ Digital twin is a dynamic, virtual representation of a physical object, process,
 
 https://github.com/kukuu/digital-twin
 
+## Live: 
+
+https://digital-twin-neon.vercel.app/
+
