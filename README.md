@@ -16,4 +16,4 @@ https://digital-twin-neon.vercel.app/
 ![Description of Image](https://github.com/kukuu/digital-twin-scene/blob/main/digital-twin-smart-reading-app.png)
 
 ## Preview: 
-![Digital Twin Preview](https://github.com/kukuu/digital-twin-scene/blob/main/digital-twin-preview.mp4)]
+![Digital Twin Preview](https://github.com/kukuu/digital-twin-scene/blob/main/digital-twin-preview.mp4)
